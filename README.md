@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![Travis build status](https://travis-ci.com/afelka/ShinyCICD-min.svg?branch=master)](https://travis-ci.com/afelka/ShinyCICD-min)
+[![R build status](https://github.com/afelka/ShinyCICD-min/workflows/CI-CD/badge.svg)](https://github.com/afelka/ShinyCICD-min/actions)
 <!-- badges: end -->
 
 The goal of ShinyCICD is to provide a simple example of packaged Shiny app to showcase CI/CD pipelines.
