@@ -10,6 +10,8 @@ NULL
 
 #' @rdname mod_faithful_histogram
 #'
+#' @param variable Reactive expression yielding variable to plot the histogram
+#'
 #' @importFrom shiny NS tagList
 mod_faithful_histogram_ui <- function(id) {
   ns <- NS(id)
